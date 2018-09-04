@@ -16,11 +16,5 @@ Add the table below to index.html using javascript. Append at least three elemen
 		<td>Week 7</td>
 		<td>React Exercises</td>
 	</tr>
-	<tr>
-		<td>2</td>
-		<td>Python</td>
-		<td>Week3</td>
-		<td>Change Target Game</td>
-	</tr>
 </table>
 ```
